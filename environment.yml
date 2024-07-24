@@ -1,0 +1,4 @@
+name: Stats
+dependencies:
+  - numpy
+  - pandas
