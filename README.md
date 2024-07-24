@@ -1,2 +1,2 @@
 # practice python
- A fun place to practice pythong
+ A fun place to practice python
